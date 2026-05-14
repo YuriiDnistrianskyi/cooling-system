@@ -1,1 +1,52 @@
-// test
+# Smart Home Platform
+
+Короткий опис проекту.
+
+---
+
+## Architecture
+
+[diagram]
+
+---
+
+## Repositories
+
+| Repository | Description |
+|---|---|
+| Backend | API server |
+| Mobile App | Flutter app |
+| Firmware | ESP8266 firmware |
+
+---
+
+## Stack
+
+- FastAPI
+- Flutter
+- MQTT
+- ESP8266
+
+---
+
+## System Overview
+
+Опис взаємодії компонентів.
+
+---
+
+## Quick Start
+
+Як підняти всю систему локально.
+
+---
+
+## Screenshots
+
+...
+
+---
+
+## Roadmap
+
+...
