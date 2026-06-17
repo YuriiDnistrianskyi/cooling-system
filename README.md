@@ -16,7 +16,9 @@ The system collects temperature measurements, stores historical data, automatica
 ---
 
 ## Architecture
-///
+
+<img width="827" height="583" alt="cooling-system- drawio" src="https://github.com/user-attachments/assets/b1aaa0bd-379d-488c-af91-b13a5b475598" />
+
 
 ---
 
