@@ -142,7 +142,14 @@ Provides user interface for:
 
 ---
 
-## Repository Structure
+## Structure
+
+| Repository | Description | Link |
+|---|---|---|
+| Backend | API server | https://github.com/YuriiDnistrianskyi/cooling-system-server
+| Mobile App (not finished) | Flutter app for monitoring | https://github.com/YuriiDnistrianskyi/cooling-system-mobile
+| Firmware | ESP8266 firmware (fan) for cooling | https://github.com/YuriiDnistrianskyi/cooling-system-hardware
+| CPU reader | Script for read cpu temperature | https://github.com/YuriiDnistrianskyi/reader-cpu-temperature
 
 ---
 
